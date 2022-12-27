@@ -8,7 +8,7 @@
           <img
               width="100"
               height="100"
-              :src="require(`/Users/timoriesenberger/WebstormProjects/Circlify/circlify/src/assets/logo.png`)" alt="">
+              :src="require(`@/assets/logo.png`)" alt="">
         </v-img>
       </v-container>
     </div>

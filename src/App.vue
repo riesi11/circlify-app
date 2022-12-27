@@ -111,14 +111,9 @@ export default {
 
   },
   methods: {
-    checkRoute() {
 
-    },
   },
   watch: {
-    $route() {
-      this.checkRoute();
-    }
   },
 
 };
